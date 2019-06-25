@@ -16,7 +16,7 @@ this repository and install it with
 ``` 
 pip install -e .  
 ```
-All the dependencies will be downloaded automatically.
+or replace the `.` with the path to this project. All the dependencies will be downloaded automatically.
 
 Finally, confirm that the installation was successfull by executing the provided tests
 ```
