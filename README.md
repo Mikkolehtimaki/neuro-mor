@@ -7,9 +7,9 @@ and reducing their dimensionality with mathematical model order reduction (MOR) 
 
 This project requires [Python 3.5](https://www.python.org/downloads/) or greater. 
 Use of virtual environments is
-strongly encouraged to avoid clashes with numpy and matplotlib versions! See
+strongly encouraged, but not required, to avoid clashes with numpy and matplotlib versions! See
 [the venv documentation](https://docs.python.org/3/tutorial/venv.html) for more
-information.
+information and installation instructions.
 
 Once your brand new virtual environment is activated, navigate to the folder of
 this repository and install it with 
