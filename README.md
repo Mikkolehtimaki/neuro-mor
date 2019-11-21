@@ -40,6 +40,6 @@ of a synaptic plasiticy model can be cited as
   reduction for a signaling pathway model of neuronal synaptic plasticity.
   IFAC-PapersOnLine, 50(1), pp.7687-7692.
 - Lehtimäki, M., Paunonen, L., and Linne M.L., Projection-based
-  order reduction of a nonlinear biophysical neuronal network model (submitted 2019).
+  order reduction of a nonlinear biophysical neuronal network model (accepted, CDC 2019).
   
 Our work can also be followed in my [ResearchGate profile](https://www.researchgate.net/profile/Mikko_Lehtimaeki)!
